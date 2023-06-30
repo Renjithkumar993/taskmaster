@@ -6,15 +6,6 @@
 ## Description
 A local service provider for freelancers and local small businesses. Built with React, Node.js, Express, Apollo Graphql and Stripe.
 
-## Table of Contents
-* [Installation](#installation)
-* [Usage](#usage)
-* [Contribution](#contribution)
-* [Testing](#testing)
-* [License](#license)
-
-## Installation 🧰
-clone or fork the repo and run npm install
 
 ## Live Site
 https://taskmaster-nb-b422cb18fd72.herokuapp.com/
@@ -23,14 +14,6 @@ https://taskmaster-nb-b422cb18fd72.herokuapp.com/
 ## Usage ⚙️
 * To run the program - npm run develop
 
-## Contribution 🙏
-Please email the repo user for instructions
-
-## Contributors 🙌🏻
-[**Aaron Turner**](https://github.com/aturner1995)
-[**Renjith Rajakumar**](https://github.com/Renjithkumar993)
-[**Matt Zhao**](https://github.com/unbmattzhao)
-[**Jorge Reyes**](https://github.com/JorgeReyes115)
 
 ## Technology 👨🏻‍💻
 * React
@@ -46,10 +29,6 @@ Please email the repo user for instructions
 * Bootstrap
 * Prime React
 * Passport.js
-
-## Questions ❓
-* For any questions releated to this repo please [**Email**](mailto:aaturner1995@gmail.com) me.
-* Checkout my [**GitHub**](https://github.com/aturner1995) for more projects.
 
 ## License
 
